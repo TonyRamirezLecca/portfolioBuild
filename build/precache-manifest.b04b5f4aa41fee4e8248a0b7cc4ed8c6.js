@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/lightsSM.056fcc1b.jpg"
   },
   {
-    "revision": "4d468b0ba440a0b96801",
-    "url": "/static/css/main.c3e3989e.chunk.css"
+    "revision": "af4c12c0d80493822d43",
+    "url": "/static/css/main.6449d886.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/americanTaxi.524a3322.jpg"
   },
   {
-    "revision": "4d468b0ba440a0b96801",
-    "url": "/static/js/main.a70f404e.chunk.js"
+    "revision": "af4c12c0d80493822d43",
+    "url": "/static/js/main.7af9f4cf.chunk.js"
   },
   {
     "revision": "6506b41927a6c7268fd1eba10d523a5d",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/static/media/xkcdComics.b1ce8ebe.jpg"
   },
   {
-    "revision": "bbb464036054df6a4f7002061713b5a5",
+    "revision": "e2d849553ec41726ddeb911bf6d3edde",
     "url": "/index.html"
   }
 ];
