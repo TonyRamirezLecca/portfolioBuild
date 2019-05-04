@@ -1,0 +1,21 @@
+{
+  "main.css": "/static/css/main.c3e3989e.chunk.css",
+  "main.js": "/static/js/main.a70f404e.chunk.js",
+  "main.js.map": "/static/js/main.a70f404e.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.b9113f5e.chunk.js": "/static/js/2.b9113f5e.chunk.js",
+  "static/js/2.b9113f5e.chunk.js.map": "/static/js/2.b9113f5e.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.6bf086b727a6e1bd29bd0a31f2076885.js": "/precache-manifest.6bf086b727a6e1bd29bd0a31f2076885.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.c3e3989e.chunk.css.map": "/static/css/main.c3e3989e.chunk.css.map",
+  "static/media/ResumePublic.pdf": "/static/media/ResumePublic.077d2124.pdf",
+  "static/media/americanTaxi.jpg": "/static/media/americanTaxi.524a3322.jpg",
+  "static/media/lightsSM.jpg": "/static/media/lightsSM.056fcc1b.jpg",
+  "static/media/mapAPI.jpg": "/static/media/mapAPI.6506b419.jpg",
+  "static/media/me.jpg": "/static/media/me.eecb762f.jpg",
+  "static/media/portfolio.jpg": "/static/media/portfolio.f4e5eca2.jpg",
+  "static/media/weather.jpg": "/static/media/weather.b813152e.jpg",
+  "static/media/xkcdComics.jpg": "/static/media/xkcdComics.b1ce8ebe.jpg"
+}
